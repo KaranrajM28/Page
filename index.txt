@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Everthing is Fine
+=======
+Everything is FineEverything is Fine>>>>>>> Peacock
